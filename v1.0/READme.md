@@ -20,6 +20,17 @@ Added in v1.0
  - Addresses the minimal requirements of the project
  - And some other fixes & cosmetic changes
  
+ 
+ Not Solved
+ ----------
+ 
+ - In some cases, it shows incomplete summary such as partial header name etc.
+ - Since it uses extraction based method, it still lacks understanding of two or more sentences.
+ - If any network issues occured during connecting, it just shows the reason, meaning it lacks proper network handling.
+ - In some cases, it misses some important single words or special not frequently occurring topic names.
+ 
+ In the very next version, I intend to fix it & usual updates.
+ 
  Conclusion
  ----------
  
