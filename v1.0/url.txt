@@ -1,0 +1,9 @@
+This is just the names of the sites tested before upload.
+The tested url's are:
+
+
+('https://en.wikipedia.org/wiki/20th_century')
+('https://en.wikipedia.org/wiki/Clothing')
+('https://en.wikipedia.org/wiki/Salman_Khan')
+('https://en.wikipedia.org/wiki/GitHub')
+('https://en.wikipedia.org/wiki/Steve_Jobs')
