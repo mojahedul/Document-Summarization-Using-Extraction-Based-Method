@@ -1,4 +1,4 @@
-# Document-Summarization-Using-Extraction-Based-Method
+# Document-Summarization
 
 ## This program summarizes a documents/texts into a shorter form.
 
